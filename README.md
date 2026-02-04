@@ -1,7 +1,1 @@
-## Hi there 👋
-
-## -
-- 16
-- he him
-- australian
-- contact me through discord .vxy_16
+![Discord Status](https://lanyard.cnrad.dev/api/1135660695338352721)
